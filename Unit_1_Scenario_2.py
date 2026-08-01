@@ -1,22 +1,21 @@
-''' Hospital Patient Management System					
-					
-Develop a Python application to maintain patient records.					
-					
-Requirements: 				
-Create a Patient class with:					
-	Patient ID				
-	Name				
-	Treatment Cost				
-Categorize patients as:					
-	General				
-	Special				
-Create a Hospital class.					
-Add patients.					
-Display all records.		'''			
-
-
-
-
+''' 								
+ Student Management System								
+								
+Develop a Python application to manage student details using Object-Oriented Programming.								
+								
+Requirements								
+Create a Student class with the following data members:								
+	Roll Number							
+	Name							
+	Marks							
+Assign Grade based on marks:								
+	A (Marks ≥ 90)							
+	B (Marks ≥ 75)							
+	C (Marks ≥ 60)							
+	F (Marks < 60)							
+Create a College class.								
+Add student objects to the college.								
+Display all student details. '''			
 
 class Student:
     def __init__(self, roll_no, name, marks):
