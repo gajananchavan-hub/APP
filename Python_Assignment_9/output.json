@@ -1,0 +1,26 @@
+[
+    {
+        "Roll No": "1",
+        "Name": "Alex",
+        "Branch": "CSE",
+        "Python": "82",
+        "DBMS": "65",
+        "Maths": "75"
+    },
+    {
+        "Roll No": "2",
+        "Name": "Emma",
+        "Branch": "AI",
+        "Python": "78",
+        "DBMS": "72",
+        "Maths": "68"
+    },
+    {
+        "Roll No": "3",
+        "Name": "Jack",
+        "Branch": "CSE",
+        "Python": "55",
+        "DBMS": "60",
+        "Maths": "70"
+    }
+]
